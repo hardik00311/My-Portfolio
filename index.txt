@@ -9,23 +9,22 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+hardik.0031@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 7836948608
 
 Birthday
-June 23, 1982
+November 11,2002
 
 Location
-Sacramento, California, USA
+New Delhi, India
 
 # navbar
 
 About
 Resume
-Portfolio
-Blog
+Projects
 Contact
 
 # about
